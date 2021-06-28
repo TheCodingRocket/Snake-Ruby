@@ -1,4 +1,4 @@
 
-<h1 align="center">
-   All credit goes to <a href="https://github.com/Rabios" target="_blank">Rabios</a>. The creator of Snake Ruby.
-</h1>
+<h2 align="center">
+   Special thanks to <a href="https://github.com/Rabios" target="_blank">Rabios</a>. For making this game, it gave me inspiration.
+</h2>
